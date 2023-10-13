@@ -12,7 +12,6 @@ class Solution:
                 n = n//10
                 sum += (mod*mod)
 
-            print(sum)
             n=sum
 
             if n==1:
