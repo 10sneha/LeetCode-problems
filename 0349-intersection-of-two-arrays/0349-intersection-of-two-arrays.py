@@ -3,16 +3,13 @@ class Solution:
         d = defaultdict(bool)
 
         for i in nums1:
-            d[i]=[]
-        
-        for i in nums2:
-            if i in d.keys():
-                d[i]=True
-            
+            d[i]=True
+
+        nums2 = set(nums2)
 
         result = []
 
-        for i in d:
+        for i in nums2:
             if d[i] == True:
                 result.append(i)
 
