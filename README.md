@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
