@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/10sneha/LeetCode-problems/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
