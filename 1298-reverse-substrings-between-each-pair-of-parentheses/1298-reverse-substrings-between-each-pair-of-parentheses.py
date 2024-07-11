@@ -12,6 +12,5 @@ class Solution:
                     stk.append(j)
             else:
                 stk.append(i)
-            print(stk)
         return "".join(stk)
         
