@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/10sneha/LeetCode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
