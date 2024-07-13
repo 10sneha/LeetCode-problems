@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/10sneha/LeetCode-problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/10sneha/LeetCode-problems/tree/master/2846-robot-collisions) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/10sneha/LeetCode-problems/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10sneha/LeetCode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/10sneha/LeetCode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/10sneha/LeetCode-problems/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/10sneha/LeetCode-problems/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
