@@ -1,21 +1,16 @@
 class Solution:
     def luckyNumbers (self, matrix: List[List[int]]) -> List[int]:
-        rows = []
-        cols = []
-
+        rows = float('-inf')
         for i in range(len(matrix)):
-            rows.append(min(matrix[i]))
+            row = min(matrix[i])
+            rows = max(rows, row)
 
+        cols = float('inf')
         for i in range(len(matrix[0])):
-            m = 0
-            for j in range(len(matrix)):
-                m = max(m, matrix[j][i])
-            cols.append(m)
-
-        ans = []
-        for i in range(len(matrix)):
-            for j in range(len(matrix[0])):
-                if matrix[i][j] == rows[i] and matrix[i][j] == cols[j]:
-                    ans.append(matrix[i][j])
-
-        return ans
+            col = max(matrix[j][i] for j in range(len(matrix)))
+            cols = min(cols, col)
+        
+        if cols == rows:
+            return [cols]
+        else:
+            return [] 
