@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/10sneha/LeetCode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/10sneha/LeetCode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -94,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/10sneha/LeetCode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/10sneha/LeetCode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/10sneha/LeetCode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/10sneha/LeetCode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
