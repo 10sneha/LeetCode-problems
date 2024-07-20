@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/10sneha/LeetCode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/10sneha/LeetCode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/10sneha/LeetCode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/10sneha/LeetCode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/10sneha/LeetCode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/10sneha/LeetCode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/10sneha/LeetCode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -99,4 +101,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/10sneha/LeetCode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/10sneha/LeetCode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
