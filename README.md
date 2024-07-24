@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/10sneha/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/10sneha/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/10sneha/LeetCode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/10sneha/LeetCode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/10sneha/LeetCode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/10sneha/LeetCode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/10sneha/LeetCode-problems/tree/master/1720-crawler-log-folder) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/10sneha/LeetCode-problems/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/10sneha/LeetCode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/10sneha/LeetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/10sneha/LeetCode-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/10sneha/LeetCode-problems/tree/master/2846-robot-collisions) |
